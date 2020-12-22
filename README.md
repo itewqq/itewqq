@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+- 🔭 **I’m currently working on hardware security, including IoT, radio, side-channel, etc.**
+- 🌱 **I’m currently learning firmware reverse engineering...**
+- 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver Medalist**
+- 📫 **How to reach me: https://t.me/FuckerQu**
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&theme=Gradient)
+
 <!--
-**itewqq/itewqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
