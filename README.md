@@ -6,7 +6,7 @@
 - 📫 **How to reach me: https://t.me/FuckerQu**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&langs_count=10&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&langs_count=10&theme=Gradient&layout=compact)
 
 <!--
 
