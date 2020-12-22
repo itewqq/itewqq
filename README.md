@@ -6,10 +6,10 @@
 - 📫 **How to reach me: https://t.me/FuckerQu**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&count_private=true&langs_count=10&theme=Gradient&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&count_private=false&langs_count=10&theme=Gradient&layout=compact)
 
 <!--
-
+Test
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
