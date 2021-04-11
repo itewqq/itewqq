@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 **I’m currently working on hardware security, including IoT, radio, side-channel, etc.**
-- 🌱 **I’m currently learning firmware reverse engineering...**
+- 🌱 **I’m currently learning firmware reverse engineering and pwn**
 - 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver Medalist**
 - 📫 **How to reach me: https://t.me/FuckerQu**
 
