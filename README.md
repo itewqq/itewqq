@@ -2,7 +2,7 @@
 
 - 🔭 **I’m currently working on hardware security, including IoT, radio, side-channel, etc.**
 - 🌱 **I’m currently learning reverse engineering and pwn**
-- 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver Medalist**
+- 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver&Bronze&Iron Medalist :P**
 - 📫 **How to reach me: https://t.me/FuckerQu**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
