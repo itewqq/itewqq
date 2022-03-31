@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently working on security and blockchain**
-- 🌱 **Learning reverse engineering and pwn in CTF**
+- 🔭 **I’m currently working on low level security and blockchain**
+- 🌱 **CTF player @ Ph0t1n1a from SJTU. Rev&Pwn&Crypto**
 - 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver&Bronze&Iron Medalist :P**
 - 📫 **How to reach me: https://t.me/FuckerQu**
 
