@@ -6,9 +6,13 @@
 - 📫 **How to reach me: https://t.me/FuckerQu**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&count_private=false&langs_count=10&theme=Gradient&layout=compact) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&count_private=false&langs_count=10&theme=Gradient&layout=compact)
+
+<!--
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=itewqq&width=1080)
+-->
+
 
 <!--
 Test
