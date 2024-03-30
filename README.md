@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently working on low level security and blockchain**
+- 🔭 **Doing research on low-level/hardware security**
 - 🌱 **CTF player @ Ph0t1n1a & 0ops from SJTU. Rev&Pwn&Crypto**
 - 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver&Bronze&Iron Medalist :P**
 - 📫 **How to reach me: https://t.me/FuckerQu**
