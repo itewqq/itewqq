@@ -3,7 +3,7 @@
 - 🔭 **Doing research on low-level/hardware security**
 - 🌱 **CTF player @ Ph0t1n1a & 0ops from SJTU. Rev&Pwn&Crypto**
 - 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver&Bronze&Iron Medalist :P**
-- 📫 **How to reach me: https://t.me/FuckerQu**
+- 📫 **How to reach me: shipeiqu1998 AT gmail DOT com**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
 
