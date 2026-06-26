@@ -1,13 +1,22 @@
 ### Hi there 👋
 
-- 🔭 **Doing research on low-level/hardware security**
-- 🌱 **CTF player @ Ph0t1n1a & 0ops from SJTU. Rev&Pwn&Crypto**
-- 🤔 **AFK from competitive programming,  ICPC Asia Regional Gold&Silver&Bronze&Iron Medalist :P**
+- 🌱 **Former [CTF player](https://ctftime.org/team/4419/) & [PhD](https://scholar.google.com/citations?user=ZB0UtpwAAAAJ&hl=zh-CN) from SJTU. Left academia in 2025.6**
+- 🔭 **Doing research on low-level/hardware security, binary analysis, and AI4Sec @ [DARKNAVY](https://www.darknavy.org/)**
+- 🤔 **AFK from competitive programming, ICPC Asia Regional Gold&Silver&Bronze&Iron Medalist :P**
 - 📫 **How to reach me: shipeiqu1998 AT gmail DOT com**
+
+#### Talks
+
+- 39C3 - Skynet Starter Kit: From Embodied AI Jailbreak to Remote Takeover of Humanoid Robots [link](https://www.youtube.com/watch?v=qjA__5-Bybs)
+
+#### Interesting bugs
+
+- QEMU: CVE-2026-3195, CVE-2026-0665, CVE-2026-6425
+- iOS/macOS: CVE-2026-20698, CVE-2026-28847
+- Linux: CVE-2025-68783
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itewqq&count_private=false&langs_count=10&theme=Gradient&layout=compact)
 
 <!--
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=itewqq&width=1080)
