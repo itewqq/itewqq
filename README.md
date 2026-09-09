@@ -3,7 +3,6 @@
 - 🌱 **Former [CTF player](https://ctftime.org/team/4419/) & [PhD](https://scholar.google.com/citations?user=ZB0UtpwAAAAJ&hl=zh-CN) from SJTU. Left academia in 2025.6**
 - 🔭 **Doing research on low-level/hardware security, binary analysis, and AI4Sec @ [DARKNAVY](https://www.darknavy.org/)**
 - 🤔 **AFK from competitive programming, ICPC Asia Regional Gold&Silver&Bronze&Iron Medalist :P**
-- 📫 **How to reach me: shipeiqu1998 AT gmail DOT com**
 
 #### Talks
 
