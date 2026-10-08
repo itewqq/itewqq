@@ -8,13 +8,6 @@
 
 - 39C3 - Skynet Starter Kit: From Embodied AI Jailbreak to Remote Takeover of Humanoid Robots [link](https://www.youtube.com/watch?v=qjA__5-Bybs)
 
-#### Interesting bugs
-
-- QEMU: CVE-2026-3195, CVE-2026-0665, CVE-2026-6425
-- iOS/macOS: CVE-2026-20698, CVE-2026-28847
-- Windows: CVE-2026-50332
-- Linux: CVE-2025-68783
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itewqq&hide=issues)
 
 
